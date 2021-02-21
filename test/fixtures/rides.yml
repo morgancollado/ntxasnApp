@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date_time: 2021-02-21 17:05:02
+  location_to: MyString
+  location_from: MyString
+  appointment_type: MyString
+
+two:
+  date_time: 2021-02-21 17:05:02
+  location_to: MyString
+  location_from: MyString
+  appointment_type: MyString
