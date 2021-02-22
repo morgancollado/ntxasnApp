@@ -14,13 +14,13 @@ require 'byebug'
 
 user = User.first || User.create(email: 'test@test.com', password: 'password', password_confirmation: 'password')
 
-user2 = User.create(email: 'morgan.collado@gmail.com', password: 'hello', password_confirmation: 'hello')
+user2 = User.create(email: 'morgan.collado@gmail.com', password: 'hello1', password_confirmation: 'hello1')
 
 ride = Ride.create(
     date_time: Faker::Time.forward(days: 15, period: :morning),
     location_to: Faker::Address.full_address,
     location_from: Faker::Address.full_address,
     appointment_type: "Consult",
-    passenger_id: 1,
-    driver_id: 2
+    passenger_id: user.id,
+    driver_id: user2.id
 )
