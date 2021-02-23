@@ -1,55 +1,115 @@
 {
-  "App.js": "/src/js/App-858cad3d971872185b67.js",
-  "App.js.map": "/src/js/App-858cad3d971872185b67.js.map",
+  "App.js": "/src/js/App-9934ce8571222165419a.js",
+  "App.js.map": "/src/js/App-9934ce8571222165419a.js.map",
+  "actions/fetchRides.js": "/src/js/actions/fetchRides-d0129b0d8a79a6d4d0c7.js",
+  "actions/fetchRides.js.map": "/src/js/actions/fetchRides-d0129b0d8a79a6d4d0c7.js.map",
+  "components/Ride.js": "/src/js/components/Ride-f3f142ba82981bfeb715.js",
+  "components/Ride.js.map": "/src/js/components/Ride-f3f142ba82981bfeb715.js.map",
+  "components/RideInput.js": "/src/js/components/RideInput-57a85bb7f254b7f22f3b.js",
+  "components/RideInput.js.map": "/src/js/components/RideInput-57a85bb7f254b7f22f3b.js.map",
+  "components/Rides.js": "/src/js/components/Rides-cb5157d1c08c70652f8d.js",
+  "components/Rides.js.map": "/src/js/components/Rides-cb5157d1c08c70652f8d.js.map",
+  "containers/RidesContainer.js": "/src/js/containers/RidesContainer-969ea24aa02f5e529fbc.js",
+  "containers/RidesContainer.js.map": "/src/js/containers/RidesContainer-969ea24aa02f5e529fbc.js.map",
   "entrypoints": {
-    "App": {
+    "actions/fetchRides": {
       "js": [
-        "/src/js/App-858cad3d971872185b67.js"
+        "/src/js/actions/fetchRides-d0129b0d8a79a6d4d0c7.js"
       ],
       "js.map": [
-        "/src/js/App-858cad3d971872185b67.js.map"
+        "/src/js/actions/fetchRides-d0129b0d8a79a6d4d0c7.js.map"
+      ]
+    },
+    "App": {
+      "js": [
+        "/src/js/App-9934ce8571222165419a.js"
+      ],
+      "js.map": [
+        "/src/js/App-9934ce8571222165419a.js.map"
+      ]
+    },
+    "components/Ride": {
+      "js": [
+        "/src/js/components/Ride-f3f142ba82981bfeb715.js"
+      ],
+      "js.map": [
+        "/src/js/components/Ride-f3f142ba82981bfeb715.js.map"
+      ]
+    },
+    "components/RideInput": {
+      "js": [
+        "/src/js/components/RideInput-57a85bb7f254b7f22f3b.js"
+      ],
+      "js.map": [
+        "/src/js/components/RideInput-57a85bb7f254b7f22f3b.js.map"
+      ]
+    },
+    "components/Rides": {
+      "js": [
+        "/src/js/components/Rides-cb5157d1c08c70652f8d.js"
+      ],
+      "js.map": [
+        "/src/js/components/Rides-cb5157d1c08c70652f8d.js.map"
+      ]
+    },
+    "containers/RidesContainer": {
+      "js": [
+        "/src/js/containers/RidesContainer-969ea24aa02f5e529fbc.js"
+      ],
+      "js.map": [
+        "/src/js/containers/RidesContainer-969ea24aa02f5e529fbc.js.map"
       ]
     },
     "index": {
       "js": [
-        "/src/js/index-917b7daf2e1a107a8eca.js"
+        "/src/js/index-04b73dcf548a9ade7e73.js"
       ],
       "js.map": [
-        "/src/js/index-917b7daf2e1a107a8eca.js.map"
+        "/src/js/index-04b73dcf548a9ade7e73.js.map"
       ]
     },
     "logo": {
       "js": [
-        "/src/js/logo-cc4f5778c6dd65788ee2.js"
+        "/src/js/logo-bcfa9612559e48c5666d.js"
       ],
       "js.map": [
-        "/src/js/logo-cc4f5778c6dd65788ee2.js.map"
+        "/src/js/logo-bcfa9612559e48c5666d.js.map"
+      ]
+    },
+    "reducers/manageRide": {
+      "js": [
+        "/src/js/reducers/manageRide-045995365876ca804d73.js"
+      ],
+      "js.map": [
+        "/src/js/reducers/manageRide-045995365876ca804d73.js.map"
       ]
     },
     "reportWebVitals": {
       "js": [
-        "/src/js/reportWebVitals-0d348bfa5fad9d8813c7.js"
+        "/src/js/reportWebVitals-36547a86e7f433199c46.js"
       ],
       "js.map": [
-        "/src/js/reportWebVitals-0d348bfa5fad9d8813c7.js.map"
+        "/src/js/reportWebVitals-36547a86e7f433199c46.js.map"
       ]
     },
     "setupTests": {
       "js": [
-        "/src/js/setupTests-ae378c9ef183c43eb1fd.js"
+        "/src/js/setupTests-afe98b4920b3586088a3.js"
       ],
       "js.map": [
-        "/src/js/setupTests-ae378c9ef183c43eb1fd.js.map"
+        "/src/js/setupTests-afe98b4920b3586088a3.js.map"
       ]
     }
   },
-  "index.js": "/src/js/index-917b7daf2e1a107a8eca.js",
-  "index.js.map": "/src/js/index-917b7daf2e1a107a8eca.js.map",
-  "logo.js": "/src/js/logo-cc4f5778c6dd65788ee2.js",
-  "logo.js.map": "/src/js/logo-cc4f5778c6dd65788ee2.js.map",
+  "index.js": "/src/js/index-04b73dcf548a9ade7e73.js",
+  "index.js.map": "/src/js/index-04b73dcf548a9ade7e73.js.map",
+  "logo.js": "/src/js/logo-bcfa9612559e48c5666d.js",
+  "logo.js.map": "/src/js/logo-bcfa9612559e48c5666d.js.map",
   "media/src/logo.svg": "/src/media/src/logo-6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-  "reportWebVitals.js": "/src/js/reportWebVitals-0d348bfa5fad9d8813c7.js",
-  "reportWebVitals.js.map": "/src/js/reportWebVitals-0d348bfa5fad9d8813c7.js.map",
-  "setupTests.js": "/src/js/setupTests-ae378c9ef183c43eb1fd.js",
-  "setupTests.js.map": "/src/js/setupTests-ae378c9ef183c43eb1fd.js.map"
+  "reducers/manageRide.js": "/src/js/reducers/manageRide-045995365876ca804d73.js",
+  "reducers/manageRide.js.map": "/src/js/reducers/manageRide-045995365876ca804d73.js.map",
+  "reportWebVitals.js": "/src/js/reportWebVitals-36547a86e7f433199c46.js",
+  "reportWebVitals.js.map": "/src/js/reportWebVitals-36547a86e7f433199c46.js.map",
+  "setupTests.js": "/src/js/setupTests-afe98b4920b3586088a3.js",
+  "setupTests.js.map": "/src/js/setupTests-afe98b4920b3586088a3.js.map"
 }
